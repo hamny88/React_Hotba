@@ -6,7 +6,7 @@ function Buttons() {
       const navigate = useNavigate();
     return (
          <Nav>
-          <Btn onClick={() => navigate('/')}>Main</Btn>
+          <Btn onClick={() => navigate('/hotba')}>Main</Btn>
           <Btn onClick={() => navigate('/detail')}>Detail</Btn>
           <Btn onClick={() => navigate('/saved')}>Saved</Btn>
           <Btn onClick={() => navigate('/register')}>Register</Btn>

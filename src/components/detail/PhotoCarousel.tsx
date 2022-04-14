@@ -25,7 +25,7 @@ function PhotoCarousel({imgHeight}: PhotoCarouselProps) {
 
     return (
         <Carousel className="Carousel">
-         <Logo logo={logo}  onClick={() => navigate('/')}/>
+         <Logo logo={logo}  onClick={() => navigate('/hotba')}/>
         {/* <Slider className="Slider" {...settings}> */}
             <Cover className="Cover" imgHeight={imgHeight} />
             {/* <Tea className="Tea" imgHeight={imgHeight} /> */}

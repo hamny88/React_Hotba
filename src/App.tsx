@@ -8,6 +8,7 @@ function App() {
   const [imgHeight, setImgHeight] = useState<number>(0);
   useEffect(() => {
     setImgHeight(window.screen.height - 270);
+
   }, []);
 
   return (
@@ -17,6 +18,7 @@ function App() {
           <BrowserRouter>
           <Routes>
             <Route path="/" element={<Main imgHeight={imgHeight} />} />
+            <Route path="/hotba" element={<Main imgHeight={imgHeight} />} />
             <Route path="/detail" element={<Detail imgHeight={imgHeight} />} />
             <Route path="/saved" element={<Saved />} />
             <Route path="/register" element={<Register />} />
