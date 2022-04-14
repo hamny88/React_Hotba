@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.js": "/React_Hotba/static/js/main.3940d99b.js",
-    "static/media/vitro.ttf": "/React_Hotba/static/media/vitro.82a2b0ef9f7a3886a8cd.ttf",
-    "static/media/texture.svg": "/React_Hotba/static/media/texture.bc9de0257224eee705ab199983ac07f6.svg",
-    "static/media/image.png": "/React_Hotba/static/media/image.d71895b09804726658c8.png",
-    "static/media/naver.svg": "/React_Hotba/static/media/naver.b7d35369eda446cca22aa0f1d842f979.svg",
-    "static/media/place.png": "/React_Hotba/static/media/place.fb6c8c9792e77a581db0.png",
-    "static/media/museum.jpg": "/React_Hotba/static/media/museum.6dc3bfa48527f28ac1ff.jpg",
-    "static/media/cafe1.jpeg": "/React_Hotba/static/media/cafe1.5d475b7a5eaa47767f9b.jpeg",
-    "static/media/google.svg": "/React_Hotba/static/media/google.f931cae8a064758691199db8505b2e51.svg",
-    "static/media/tea.jpeg": "/React_Hotba/static/media/tea.5a66169deeb4b14e15dd.jpeg",
-    "static/media/palace.jpeg": "/React_Hotba/static/media/palace.9e1b8a5b810ec8be7b06.jpeg",
-    "static/media/river.jpeg": "/React_Hotba/static/media/river.bc7f5bbf0c2a2cab6324.jpeg",
-    "static/media/kakao.svg": "/React_Hotba/static/media/kakao.78a80593c40f23a3fbbda002cb59d91d.svg",
-    "static/media/logo.svg": "/React_Hotba/static/media/logo.e0149d7e9c3dbb7b2e513ddc94fb51a8.svg",
-    "static/media/vector.svg": "/React_Hotba/static/media/vector.47d88866273711ebc87127bf65a6ae2e.svg",
-    "static/media/like.svg": "/React_Hotba/static/media/like.a851372abdda04a7b341307b1701c5ee.svg",
-    "index.html": "/React_Hotba/index.html",
-    "main.3940d99b.js.map": "/React_Hotba/static/js/main.3940d99b.js.map"
+    "main.js": "/hotba/static/js/main.4ff2445c.js",
+    "static/media/vitro.ttf": "/hotba/static/media/vitro.82a2b0ef9f7a3886a8cd.ttf",
+    "static/media/texture.svg": "/hotba/static/media/texture.bc9de0257224eee705ab199983ac07f6.svg",
+    "static/media/image.png": "/hotba/static/media/image.d71895b09804726658c8.png",
+    "static/media/naver.svg": "/hotba/static/media/naver.b7d35369eda446cca22aa0f1d842f979.svg",
+    "static/media/place.png": "/hotba/static/media/place.fb6c8c9792e77a581db0.png",
+    "static/media/museum.jpg": "/hotba/static/media/museum.6dc3bfa48527f28ac1ff.jpg",
+    "static/media/cafe1.jpeg": "/hotba/static/media/cafe1.5d475b7a5eaa47767f9b.jpeg",
+    "static/media/google.svg": "/hotba/static/media/google.f931cae8a064758691199db8505b2e51.svg",
+    "static/media/tea.jpeg": "/hotba/static/media/tea.5a66169deeb4b14e15dd.jpeg",
+    "static/media/palace.jpeg": "/hotba/static/media/palace.9e1b8a5b810ec8be7b06.jpeg",
+    "static/media/river.jpeg": "/hotba/static/media/river.bc7f5bbf0c2a2cab6324.jpeg",
+    "static/media/kakao.svg": "/hotba/static/media/kakao.78a80593c40f23a3fbbda002cb59d91d.svg",
+    "static/media/logo.svg": "/hotba/static/media/logo.e0149d7e9c3dbb7b2e513ddc94fb51a8.svg",
+    "static/media/vector.svg": "/hotba/static/media/vector.47d88866273711ebc87127bf65a6ae2e.svg",
+    "static/media/like.svg": "/hotba/static/media/like.a851372abdda04a7b341307b1701c5ee.svg",
+    "index.html": "/hotba/index.html",
+    "main.4ff2445c.js.map": "/hotba/static/js/main.4ff2445c.js.map"
   },
   "entrypoints": [
-    "static/js/main.3940d99b.js"
+    "static/js/main.4ff2445c.js"
   ]
 }
